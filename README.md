@@ -1,6 +1,8 @@
 Paginate
 ============
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Paginate-green.svg?style=true)](https://android-arsenal.com/details/1/2797)
+
 Android library for creating simple pagination functionality (aka infinite scrolling) upon `RecyclerView` or
 `AbsListView`.
 
@@ -25,14 +27,14 @@ Setup
 
 Gradle:
 ```groovy
-compile 'com.github.markomilos:paginate:0.5.0'
+compile 'com.github.markomilos:paginate:0.5.1'
 ```
 or Maven:
 ```xml
 <dependency>
   <groupId>com.github.markomilos</groupId>
   <artifactId>paginate</artifactId>
-  <version>0.5.0</version>
+  <version>0.5.1</version>
 </dependency>
 ```
 
